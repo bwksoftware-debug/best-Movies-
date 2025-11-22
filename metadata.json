@@ -1,0 +1,5 @@
+{
+  "name": "BestMovies.com",
+  "description": "A fully functional open video streaming platform featuring AI-powered content generation, local library management, and a modern dark-themed UI.",
+  "requestFramePermissions": []
+}
